@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Alex123-wyp](../static/assets/favicon.ico)](https://github.com/Alex123-wyp)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Digital Design, at School of University College Cork, Ireland
 
 #### Email
-sli[at]cumt.edu.cn
+wypgreat@icloud.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Digital Design, University College Cork, 2024-2025 (expected).\
+B.E., Computer Science, Heibei University of Technology(China), 2018—2022.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### Technology Stack
+React,Node.js,SQL,MongoDB,JavaScript
 
